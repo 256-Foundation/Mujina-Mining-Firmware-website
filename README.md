@@ -50,6 +50,9 @@ The timeline for this grant is nine months with the opportunity to extend the gr
 ## Materials:
 Materials for this project’s initial release are included in the budget. Potential materials for the project may include but are not limited to compute modules, various I/O boards, various common mining rigs like Antminer or Whatsminer, and various other tools or software.
 
+## Community Support
+For help with Mujina, please use [The 256 Foundation public forum](https://t.me/the256foundation) on Telegram.
+
 ## Team Members:
 Lead Developer = [@ryankuester](https://x.com/ryankuester) 
 
