@@ -1,4 +1,6 @@
 ## Open Mining Firmware
+Mujina is an [open-source](https://www.gnu.org/licenses/gpl-3.0.html) Bitcoin mining firmware built to support a number ASIC chips. 
+
 There are currently no open-source Bitcoin mining firmware options and we're going to change that with this project. Unless you are running your miner in the exact conditions it was engineered for then you have probably experienced the headache of dealing with closed parameters in the firmware that you can't change. There are several aftermarket firmware options available that provide additional flexibility beyond the manufacturers firmware but they are all closed source and still they leave something to be desired when it comes to customizations. Beyond being open-source, the main highlights of the Mujina Mining Firmware are: Linux based, multi driver compatible, and Stratum v2 client support. This will unlock hacks like changing the main supply voltage, swapping out or removing the fans, changing ASIC voltage & frequency, and anything else the end user wants to change.   
 
 <p align="center">
